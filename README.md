@@ -1,2 +1,2 @@
 # Yugas
-Calculation ov Yuga dates from traditional Gregorian calendar dates
+Calculation of Vedic Yuga cycle dates from traditional Gregorian calendar dates
